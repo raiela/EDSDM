@@ -5,3 +5,6 @@ G
 src/kotlin/basico/q1.kt,1\e\1e704a0d0056a70b341812ee59f301d3812c2602
 9
 	src/q1.kt,a\1\a1b89796f152af6101e7eadc5eb159f98f205c7b
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

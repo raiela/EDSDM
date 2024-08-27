@@ -1,0 +1,62 @@
+# Bytecode, class, and log files
+*.class
+*.log
+*.war
+*.ear
+*.jar
+*.dll
+*.exe
+*.out
+*.so
+
+# Gradle build files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven build files
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+!.idea/modules.xml
+!.idea/.gitignore
+*.hprof
+
+# Android Studio
+.cxx/
+local.properties
+*.hprof
+*.externalNativeBuild/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Kotlin specific files
+*.kotlin_metadata
+*.kotlin_builtins
+
+# Java specific files
+*.class
+*.jar
+
+# Log files
+*.log
+
+# Compiled source
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
