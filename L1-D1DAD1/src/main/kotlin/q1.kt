@@ -1,4 +1,4 @@
-package src
+package src.main.kotlin
 
 fun main(){
     val listaCursos: MutableList<String> = mutableListOf(
